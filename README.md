@@ -1,5 +1,4 @@
 # Horiseon
-Challenge 1
 
 Project Title:
 -------------
