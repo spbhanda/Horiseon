@@ -72,14 +72,8 @@ p {
     margin-left: 20px;
 }
 
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
-
-.float-right {
-    float: right;
-    margin-left: 25px;
+.contents img {
+    max-height: 200px;
 }
 
 .content {
@@ -89,15 +83,21 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff; 
-}
-
-.contents img {
-    max-height: 200px;
+    overflow: auto;
 }
 
 .contents h2 {
     margin-bottom: 20px;
     font-size: 36px;
+}
+
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+.float-right {
+    float: right;
 }
 
 /* Benefit style */
