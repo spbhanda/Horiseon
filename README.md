@@ -8,8 +8,14 @@ Horiseon - Search Engine Optimization - Online Reputation Management - Social Me
 
 Project Description:
 --------------------
+The webpage is built using HTML and CSS. 
+
 There are 3 navigation contents inline with the header: 'Search Engine Optimization', 'Online Reputation Management' and 'Social Media Marketing'. A hero image is placed under the header and the navigation line. The navigation contents are then linked to the their section just below the hero section. When a user clicks any navigation text, the page will direct to or shows it's content. Each content has its own picture to its side. 
 
 A benefit section colum with 3 contents: 'Lead Generation', Brand Awareness' and 'Cost Management' is place in right column along side with the content section. 
 
 And lastly at there is a footer section at the end of page. 
+
+Webpage Link:
+-------------
+https://spbhanda.github.io/Horiseon/
