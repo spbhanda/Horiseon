@@ -1,13 +1,16 @@
+/* Universal style */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+/* Body style */
 body {
     background-color: #d9dcd6;
 }
 
+/* Header style */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -33,7 +36,7 @@ body {
 }
 
 .header nav ul {
-    list-style-type: none;
+    list-style-type: none;   
 }
 
 .header nav ul li {
@@ -41,15 +44,18 @@ body {
     margin-left: 25px;
 }
 
+/* Tag 'a' style */
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
+/* Paragraph style */
 p {
     font-size: 16px;
 }
 
+/* Hero image style */
 .hero {
     height: 800px;
     width: 100%;
@@ -58,6 +64,7 @@ p {
     background-size: cover;
     background-position: center;
 }
+/* Hero style ends */
 
 .float-left {
     float: left;
@@ -69,12 +76,14 @@ p {
     margin-left: 25px;
 }
 
+/* Content style */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/* Benefit style */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -133,6 +142,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+/* Benefit style end */
 
 .search-engine-optimization {
     margin-bottom: 20px;
@@ -161,29 +171,11 @@ p {
     color: #ffffff;
 }
 
-.search-engine-optimization img {
+.content img {
     max-height: 200px;
 }
 
-.online-reputation-management img {
-    max-height: 200px;
-}
-
-.social-media-marketing img {
-    max-height: 200px;
-}
-
-.search-engine-optimization h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.social-media-marketing h2 {
+.content h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
